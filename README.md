@@ -30,7 +30,7 @@ By turning raw sales records into **actionable insights**, the dashboard enables
 ---
 
 ## 📷 Dashboard Preview
-![alt text](coffee sales dashboard.png)
+![Alt Text](https://github.com/DataByFairuz/CoffeeSalesinExcel/blob/main/coffee%20sales%20dashboard.png)
 ---
 
 ## ⚙️ Tech & Tools Used
